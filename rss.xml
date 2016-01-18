@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MarkWorlds]]></title>
+        <description><![CDATA[MarkWorlds]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 13:09:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paris in my Heart]]></title>
+            <description><![CDATA[<article><h1>Paris in my Heart</h1><p>Photographer Mark Wessel - set on surrounding you with unique photos of a comfortable nature - mostly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28979c73e7dce9b9f6911f3c9860db423b50b5af.jpg"></article>]]></description>
+            <link>undefined3da71ab9-1732-4ec0-bea2-1cb38a334fec/index.html</link>
+            <guid isPermaLink="false">3da71ab9-1732-4ec0-bea2-1cb38a334fec</guid>
+            <pubDate>Mon, 18 Jan 2016 13:09:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
