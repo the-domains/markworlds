@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MarkWorlds]]></title>
-        <description><![CDATA[MarkWorlds]]></description>
+        <title><![CDATA[Images by Mark Wessel]]></title>
+        <description><![CDATA[Images by Mark Wessel]]></description>
         <link>https://thegrid.ai/markworlds/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 13:38:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 14:37:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/markworlds/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Paris in my Heart]]></title>
-            <description><![CDATA[<article><h1>Paris in my Heart</h1><p>Photographer Mark Wessel - set on surrounding you with unique photos of a comfortable nature - mostly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4df356dd4e6e6b6539e45cf10a9fa2c6684cafb1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Paris in my Heart</h1><p>A collection of  images by Danish photographer - Mark Wessel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4df356dd4e6e6b6539e45cf10a9fa2c6684cafb1.jpg"></article>]]></description>
             <link>https://thegrid.ai/markworlds/3da71ab9-1732-4ec0-bea2-1cb38a334fec/index.html</link>
             <guid isPermaLink="false">3da71ab9-1732-4ec0-bea2-1cb38a334fec</guid>
-            <pubDate>Mon, 18 Jan 2016 13:37:50 GMT</pubDate>
+            <pubDate>Mon, 18 Jan 2016 14:37:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
