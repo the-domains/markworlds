@@ -1,0 +1,28 @@
+name: MarkWorlds
+favicon: null
+layout_spectrum: 0.256761911790818
+typography_spectrum: 0.8556450335308909
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.11912369052879512
+  lightness: 0.7375712364446372
+  saturation: 0.5417692195624113
+  rhythmicContrast: 0.846534111071378
+purpose: []
